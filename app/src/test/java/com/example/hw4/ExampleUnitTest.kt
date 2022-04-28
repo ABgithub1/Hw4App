@@ -1,4 +1,4 @@
-package com.example.hw4app
+package com.example.hw4
 
 import org.junit.Test
 
